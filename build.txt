@@ -1,0 +1,3 @@
+displayName = Med Mod
+author = Dumi
+version = 0.1

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+lG/0CD4tulaZ3ruEassvvkiLZhJEBwa4MV74sLOzKvrup3HHASnqJXP9xM6PQtqi05lWvSkRdKamEN1jH7cnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\med\\med.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
