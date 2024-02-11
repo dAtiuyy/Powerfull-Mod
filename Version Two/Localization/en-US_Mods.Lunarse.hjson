@@ -1,0 +1,107 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Common: {
+	LocalizedLabel: This Label is from the localization files: {$Mods.ExampleMod.Common.PaperAirplane}
+	LocalizedTooltip: This tooltip is from the localization files.
+	LocalizedHeader: Headers can help organize
+	LocalizedLabelDynamic: Localized Label Dynamic
+	InterpolatedLabel: Item: [i:{0}]. Number: {1} {^1:change;changes}. Text: {2}. Localized Text: {3}.
+	InterpolatedTooltip: "[c/{1}:Use to disable the] [c/{2}:{0}] [c/{1}:feature]"
+}
+
+Items: {
+	Basic: {
+		DisplayName: Basic
+		Tooltip: Sword
+	}
+
+	CoolSword: {
+		DisplayName: Cool Sword
+		Tooltip: Cooler Sword
+	}
+
+	Dagger: {
+		Tooltip: Dagger that shoots 5 projectiles which have a 30 chance to deal 200 dmg instead of their normal amount.
+		DisplayName: Dagger
+	}
+
+	Spear: {
+		Tooltip: SPEARRRRR
+		DisplayName: Spear
+	}
+
+	Summon: {
+		DisplayName: Summon
+		Tooltip: Cheap copy of a CalamityMod item.
+	}
+
+	TestAcc: {
+		DisplayName: Test Acc
+		Tooltip:
+			'''
+			{$CommonItemTooltip.PercentIncreasedDamage}, this is an additive multiplier with other damage bonuses
+			{1}% increased multiplicative damage multiplier; this is multiplicative with other damage bonuses
+			Increases base damage for all weapons by {2}
+			Increases total damage for all weapons by {3}
+			{$CommonItemTooltip.PercentIncreasedMeleeCritChance@4}
+			Increases ranged firing speed by {5}%
+			{6} armor penetration
+			{7}% increased crit damage
+			And MORE!
+			'''
+	}
+
+	Galaxia: {
+		DisplayName: Galaxia
+		Tooltip: ""
+	}
+
+	LootMagnet: {
+		DisplayName: Loot Magnet
+		Tooltip: ""
+	}
+
+	UltimateBattler: {
+		DisplayName: Ultimate Battler
+		Tooltip: ""
+	}
+
+	UltimatePeaceful: {
+		DisplayName: Ultimate Peaceful
+		Tooltip: ""
+	}
+
+	BattleCry: {
+		DisplayName: Battle Cry
+		Tooltip: ""
+	}
+
+	DEBUG: {
+		DisplayName: D E B U G
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	SoulsProj.DisplayName: Souls Proj
+	CrackedDaggerProj.DisplayName: Cracked Dagger Proj
+	Spear.DisplayName: Spear
+	SummonProj.DisplayName: Summon Proj
+	AuraRain.DisplayName: Aura Rain
+	GalaxiaProj.DisplayName: Galaxia Proj
+	GalaxiaProj2.DisplayName: Galaxia Proj2
+	DProj.DisplayName: D Proj
+	PhaserLaserMultihit.DisplayName: Phaser Laser Multihit
+}
+
+Buffs: {
+	SummonBuff: {
+		DisplayName: Summon Buff
+		Description: SummonBUFF
+	}
+
+	LunDebuff: {
+		DisplayName: Lun Debuff
+		Description: Mods.Lunarse.Buffs.LunDebuff.Description
+	}
+}

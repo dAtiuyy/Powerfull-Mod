@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "swfHTW3aGYcKwoIxQFE7wxiv2lFy4OYN4RoffUg8NsXCDiT5fThCwl8/Ph56HDAhAwIjz/Qyn4dx7m0yHtXgPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Lunarse\\Lunarse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
